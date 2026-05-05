@@ -25,9 +25,14 @@ Devuelve un resultado (return)
 4. Devuelve resultado
 
 ## Estructura basica
-php
-function saludar($nombre) {
-    return "Hola " . $nombre;
-}
 
+<? php
+    function saludar($nombre) {
+        return "Hola " . $nombre;
+    }
+?>
+
+## Consulta
 ![Consulta](geminifunciones.png "Consulta ")
+
+[Exposición. Click aquí.](https://gamma.app/docs/Introduccion-a-PHP-yu9fg4ynx5j5xtz)
