@@ -4,7 +4,7 @@ function saludar($nombre) {
     echo "Hola " . $nombre;
 }
 
-saludar("Joe");
+saludar ("Joe");
 
 
 // Ejercicio 2: Sumar dos números//
